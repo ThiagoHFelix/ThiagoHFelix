@@ -41,7 +41,7 @@ const thiago = {
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 
 [website]: https://thiagofelix.com.br
-[linkedin]: https://www.linkedin.com/in/SEULINKEDIN/
+[linkedin]: https://www.linkedin.com/in/thiago-henrique-felix-89966bb5/
 
 
 #### :computer: Rede Sociais!
