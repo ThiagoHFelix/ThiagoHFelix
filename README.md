@@ -24,6 +24,8 @@ const thiago = {
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![PHP](https://img.shields.io/badge/-php-333333?style=flat&logo=php)
+![Redux](https://img.shields.io/badge/-php-333333?style=flat&logo=redux)
 
 **Utilidades**
 
@@ -40,7 +42,7 @@ const thiago = {
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 
-[website]: https://thiagofelix.com.br
+[website]: http://thiagofelix.com.br
 [linkedin]: https://www.linkedin.com/in/thiago-henrique-felix-89966bb5/
 
 
