@@ -11,7 +11,7 @@ const thiago = {
  name             = "Thiago Henrique Felix",
  acknowledgements = "FullStack developer",
 
- primarySkillset = ['Laravel','ReactJS', 'Bootstrap', 'MaterialUI'],
+ primarySkillset = ['Laravel','ReactJS','HTML5','CSS3'],
  languages = ["PHP", "Javascript"] 
 
 }
@@ -25,7 +25,7 @@ const thiago = {
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![PHP](https://img.shields.io/badge/-php-333333?style=flat&logo=php)
-![Redux](https://img.shields.io/badge/-php-333333?style=flat&logo=redux)
+![Redux](https://img.shields.io/badge/-redux-333333?style=flat&logo=redux)
 
 **Utilidades**
 
